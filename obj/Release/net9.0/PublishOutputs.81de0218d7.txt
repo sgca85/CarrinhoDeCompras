@@ -1,0 +1,5 @@
+C:\Users\lab53\Documents\CarrinhoDeCompras\bin\Release\net9.0\publish\CarrinhoDeCompras.exe
+C:\Users\lab53\Documents\CarrinhoDeCompras\bin\Release\net9.0\publish\CarrinhoDeCompras.dll
+C:\Users\lab53\Documents\CarrinhoDeCompras\bin\Release\net9.0\publish\CarrinhoDeCompras.deps.json
+C:\Users\lab53\Documents\CarrinhoDeCompras\bin\Release\net9.0\publish\CarrinhoDeCompras.runtimeconfig.json
+C:\Users\lab53\Documents\CarrinhoDeCompras\bin\Release\net9.0\publish\CarrinhoDeCompras.pdb

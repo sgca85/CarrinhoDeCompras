@@ -1,0 +1,15 @@
+C:\Users\lab53\Documents\CarrinhoDeCompras\bin\Release\net9.0\CarrinhoDeCompras.exe
+C:\Users\lab53\Documents\CarrinhoDeCompras\bin\Release\net9.0\CarrinhoDeCompras.deps.json
+C:\Users\lab53\Documents\CarrinhoDeCompras\bin\Release\net9.0\CarrinhoDeCompras.runtimeconfig.json
+C:\Users\lab53\Documents\CarrinhoDeCompras\bin\Release\net9.0\CarrinhoDeCompras.dll
+C:\Users\lab53\Documents\CarrinhoDeCompras\bin\Release\net9.0\CarrinhoDeCompras.pdb
+C:\Users\lab53\Documents\CarrinhoDeCompras\obj\Release\net9.0\CarrinhoDeCompras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab53\Documents\CarrinhoDeCompras\obj\Release\net9.0\CarrinhoDeCompras.AssemblyInfoInputs.cache
+C:\Users\lab53\Documents\CarrinhoDeCompras\obj\Release\net9.0\CarrinhoDeCompras.AssemblyInfo.cs
+C:\Users\lab53\Documents\CarrinhoDeCompras\obj\Release\net9.0\CarrinhoDeCompras.csproj.CoreCompileInputs.cache
+C:\Users\lab53\Documents\CarrinhoDeCompras\obj\Release\net9.0\CarrinhoDeCompras.sourcelink.json
+C:\Users\lab53\Documents\CarrinhoDeCompras\obj\Release\net9.0\CarrinhoDeCompras.dll
+C:\Users\lab53\Documents\CarrinhoDeCompras\obj\Release\net9.0\refint\CarrinhoDeCompras.dll
+C:\Users\lab53\Documents\CarrinhoDeCompras\obj\Release\net9.0\CarrinhoDeCompras.pdb
+C:\Users\lab53\Documents\CarrinhoDeCompras\obj\Release\net9.0\CarrinhoDeCompras.genruntimeconfig.cache
+C:\Users\lab53\Documents\CarrinhoDeCompras\obj\Release\net9.0\ref\CarrinhoDeCompras.dll
