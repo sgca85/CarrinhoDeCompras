@@ -6,4 +6,4 @@ Criação de um programa que implemente o carrinho de compras da loja virtual fi
 Permite que o usuário veja a lista de produtos, adicione produtos ao carrinho, visualize o status atual do carrinho, limpe o carrinho, ou finalize a compra.
 
 
-Acesse em www.github.com/sgca85/CarrinhoDeCompras-main/dist/publish.zip
+Acesse em www.github.com/sgca85/CarrinhoDeCompras/dist/CarrinhoDeCompras.zip
