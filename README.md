@@ -6,4 +6,4 @@ Este é um programa criando para atender ao Projeto Final da disciplina Algoritm
 Permite que o usuário veja a lista de produtos, adicione produtos ao carrinho, visualize o status atual do carrinho, limpe o carrinho, ou finalize a compra.
 
 ## Download
-Acesse aqui: [https://sgca85.github.io/CarrinhoDeCompras/](CarrinhoDeCompras.zip)
+Acesse aqui: [Link](CarrinhoDeCompras.zip)
